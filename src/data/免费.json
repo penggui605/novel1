@@ -1,5 +1,5 @@
 [
-    {"name":"书名1","address":"作者1","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"类型1"},
-    {"name":"书名2","address":"作者2","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"类型2"}
+    {"name":"水浒传","address":"施耐庵","image":"cloud://novel-vs4zy.6e6f-novel-vs4zy-1301052078/水浒传.jpg","remark":"古代"},
+    {"name":"三国演义","address":"罗贯中","image":"cloud://novel-vs4zy.6e6f-novel-vs4zy-1301052078/bd6a99bdb2036126d4b5b29007e7993a.jpg","remark":"古代"}
       
 ]
